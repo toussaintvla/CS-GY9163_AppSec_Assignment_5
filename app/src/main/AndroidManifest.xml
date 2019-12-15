@@ -96,7 +96,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LoginActivity"
+            android:name=".LoggingActivity"
             android:label="@string/app_sec" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
